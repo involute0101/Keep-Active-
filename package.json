@@ -1,0 +1,25 @@
+{
+	"name": "penguinrun-server",
+	"version": "3.1.0",
+	"description": "PenguinRun server side",
+	"main": "index.js",
+	"scripts": {
+		"test": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@git.coding.net:doveccl/PenguinRunServer.git"
+	},
+	"author": "Doveccl",
+	"license": "UNLICENSED",
+	"dependencies": {
+		"koa": "^2",
+		"koa-body": "^2",
+		"koa-router": "^7",
+		"moment": "^2",
+		"node-forge": "^0",
+		"node-schedule": "^1",
+		"pg-async": "^3",
+		"xlsx": "^0"
+	}
+}
