@@ -1,3 +1,3 @@
 PenguinRun Server Side
 
-- run `init.sh` to initialize the database configure
+- 使用 `init.sh` 初始化数据库
